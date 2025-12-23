@@ -1,57 +1,47 @@
-# אדיר צאובר — Generative Engine Optimization Map
-
-> A פיננסים והשקעות business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://zappy-site-295f7402-d212-481a-bee8.onrender.com
+https://adir-tzauber.zappy5.app
 מומחה פנסיוני בישראל לתכנון פנסיוני מקיף לקראת פרישה, ניהול השקעות וביטוח. פתרונות מותאמים אישית ללקוחות פרטיים ועסקיים.
 
 ### שירותים
-https://zappy-site-295f7402-d212-481a-bee8.onrender.com/services
+https://adir-tzauber.zappy5.app/services
 שירותי תכנון פנסיוני מקיף לקראת פרישה, ניהול השקעות, ביטוח והגנה פיננסית. פתרונות מקצועיים ומותאמים אישית ללקוחות פרטיים ועסקיים.
 
 ### אודות
-https://zappy-site-295f7402-d212-481a-bee8.onrender.com/about
+https://adir-tzauber.zappy5.app/about
 הכירו את אדיר צאובר, מומחה פנסיוני בישראל עם ניסיון עשיר בתכנון פנסיוני מקיף לקראת פרישה, ניהול השקעות וביטוח. מחויבות למצוינות ושירות אישי.
 
 ### צור קשר
-https://zappy-site-295f7402-d212-481a-bee8.onrender.com/contact
+https://adir-tzauber.zappy5.app/contact
 צור קשר עם אדיר צאובר לפגישת ייעוץ ראשונית בתכנון פנסיוני מקיף לקראת פרישה, ניהול השקעות וביטוח. זמינים לשירותך.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zappy-site-295f7402-d212-481a-bee8.onrender.com/privacy
+https://adir-tzauber.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zappy-site-295f7402-d212-481a-bee8.onrender.com/terms
+https://adir-tzauber.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zappy-site-295f7402-d212-481a-bee8.onrender.com/accessibility
+https://adir-tzauber.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About אדיר צאובר
-אדיר צאובר is a business in the פיננסים והשקעות industry.
-
-## Target Audience
-לקוחות פרטיים ועסקיים המחפשים תכנון פנסיוני, ניהול השקעות והגנות ביטוחיות
-
-## Industry
-פיננסים והשקעות
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://zappy-site-295f7402-d212-481a-bee8.onrender.com/sitemap.xml
-- **Robots.txt**: https://zappy-site-295f7402-d212-481a-bee8.onrender.com/robots.txt
+- **Sitemap**: https://adir-tzauber.zappy5.app/sitemap.xml
+- **Robots.txt**: https://adir-tzauber.zappy5.app/robots.txt

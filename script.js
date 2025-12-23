@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function() { const mobileToggle = 
             contactForm.reset();
         });
     }
-} } });
+} });
 
 /* Cookie Consent */
 
