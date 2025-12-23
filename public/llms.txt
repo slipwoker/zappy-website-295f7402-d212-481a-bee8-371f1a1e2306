@@ -1,6 +1,4 @@
-# אדיר צאובר — Generative Engine Optimization Map
-
-> A פיננסים והשקעות business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About אדיר צאובר
-אדיר צאובר is a business in the פיננסים והשקעות industry.
-
-## Target Audience
-לקוחות פרטיים ועסקיים המחפשים תכנון פנסיוני, ניהול השקעות והגנות ביטוחיות
-
-## Industry
-פיננסים והשקעות
-
+## About Business
 ---
 
 # Additional Resources
